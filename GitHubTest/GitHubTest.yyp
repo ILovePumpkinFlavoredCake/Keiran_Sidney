@@ -10,7 +10,9 @@
   },
   "defaultScriptType":1,
   "Folders":[],
-  "ForcedPrefabProjectReferences":[],
+  "ForcedPrefabProjectReferences":[
+    {"link":"io.gamemaker.gm_filter_greyscale-1.0.0","name":"io.gamemaker.gm_filter_greyscale-1.0.0","path":"io.gamemaker.gm_filter_greyscale-1.0.0.yyp",},
+  ],
   "IncludedFiles":[
     {"$GMIncludedFile":"","%Name":"frutiger-aero-1.webp","CopyToMask":-1,"filePath":"datafiles","name":"frutiger-aero-1.webp","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
   ],
